@@ -1,0 +1,33 @@
+img {
+    /* border-radius: 50px; */
+    width: 650px;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  h1 {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 50px;
+    margin: 0;
+    font-family: arial;
+  }
+  
+  p {
+    margin-left: 70px;
+  }
+  
+  button {
+    background-color: white;
+    border: 1px solid gray;
+    color: gray;
+    width: 200px;
+    transition-duration: 0.4s;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  button:hover {
+    background-color: gray;
+    color: white;
+  }
